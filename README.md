@@ -3,25 +3,10 @@
 </p>
 
 ##
-![Draw Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2316A085&lines=Hi,+I'm+M.+Serif!;I+am+a+software+developer.;)
+![Draw Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2316A085&lines=Hi,+I'm+M.+Serif!;I+am+a+Software+Developer.;)
 ##
 
-<p  class="color-changing-title">🙋‍♂️ About Me</p>
-
-<style>
-  .color-changing-title {
-    font-size: 2rem;
-    font-weight: bold;
-    animation: color-change 3s infinite;
-  }
-
-  @keyframes color-change {
-    0% { color: #4CAF50; }
-    50% { color: #FF6347; }
-    100% { color: #4CAF50; }
-  }
-</style>
-
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Flutter**
 
