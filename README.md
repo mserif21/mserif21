@@ -1,5 +1,5 @@
 <p align="center"> 
-  <a href="#"><img width="auto" height="auto" src="https://github.com/mserif21/Git/blob/main/lib/git.gif" height="360px"/></a>
+  <a href="#"><img width="auto" height="auto" src="https://github.com/mserif21/mserif21.github.io/blob/main/git.gif" height="360px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Serif</h1>
