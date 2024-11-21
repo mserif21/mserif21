@@ -2,11 +2,26 @@
   <a href="#"><img width="auto" height="auto" src="https://github.com/mserif21/mserif21.github.io/blob/main/git.gif" height="360px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Serif</h1>
-<h3 align="center">I'm a passionate Mobile Developer from Turkey.</h3>
+##
+![Draw Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2316A085&lines=Hi,+I'm+M.+Serif!;I+am+a+software+developer.;)
+##
 
+<p  class="color-changing-title">🙋‍♂️ About Me</p>
 
-## 🙋‍♂️ About Me
+<style>
+  .color-changing-title {
+    font-size: 2rem;
+    font-weight: bold;
+    animation: color-change 3s infinite;
+  }
+
+  @keyframes color-change {
+    0% { color: #4CAF50; }
+    50% { color: #FF6347; }
+    100% { color: #4CAF50; }
+  }
+</style>
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -14,7 +29,12 @@
 
 - ⚡ Fun fact **I play games , football and go to the GYM very often.**
 
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> How to reach me **mserifdal@gmail.com**
+## 📬 Connect with me:
+
+| [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>](mailto:mserifdal@gmail.com) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>](https://www.linkedin.com/in/mehmet-serif-dal/) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Gmail**: mserifdal@gmail.com                               | **LinkedIn**: Mehmet Şerif Dal                               |
+
 
 ## 🚀 Languages and Tools:
 
@@ -39,16 +59,7 @@
     <a href="https://github.com/mserif21/github-readme-stats"><img alt="Mehmet Şerif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mserif21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mserif21/github-readme-stats"><img alt="Mehmet Şerif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mserif21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/mehmet-serif-dal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
