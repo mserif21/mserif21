@@ -3,7 +3,7 @@
 </p>
 
 ##
-![Draw Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2316A085&lines=Hi,+I'm+Mehmet+Serif!;I+am+a+Software+Developer.;)
+![Draw Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2316A085&lines=Hi,+I'm+Mehmet+Şerif!;I+am+a+Software+Developer.;)
 ##
 
 ## 🙋‍♂️ About Me
