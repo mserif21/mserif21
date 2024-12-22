@@ -1,5 +1,5 @@
 <p align="center"> 
-  <a href="#"><img width="auto" height="auto" src="https://github.com/mserif21/mserif21.github.io/blob/main/git.gif" height="360px"/></a>
+  <a href="#"><img width="auto" height="auto" src="https://github.com/mserif21/mserif21/blob/main/git.gif?raw=true" height="360px"/></a>
 </p>
 
 ##
